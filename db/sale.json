@@ -1,0 +1,20 @@
+[
+{
+	"id": 1,
+	"product": "213243543ნოუთბუქი: HP 15 15.6 FHD AMD A6-9225 4GB 128GB SSD - 7NG19EA",
+	"price": 12095.0,
+	"image": "images/tv.png"
+},
+{
+	"id": 2,
+	"product": "167777777771ნოუთბუქი: HP 15 15.6 FHD AMD A6-9225 4GB 128GB SSD - 7NG19EA",
+	"price": 12095.0,
+	"image": "images/tv.png"
+},
+{
+	"id": 3,
+	"product": "9999911ნოუთბუქი: HP 15 15.6 FHD AMD A6-9225 4GB 128GB SSD - 7NG19EA",
+	"price": 12095.0,
+	"image": "images/tv.png"
+}
+]
